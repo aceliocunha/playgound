@@ -20,3 +20,10 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+CH7/VHDL/build/
+CH8/VHDL/build/
+CH10/IP/
+CH10/VHDL/build/
+CH10/VHDL/sim/
+CH10/VHDL/temp/
